@@ -29,6 +29,12 @@ or we can choose one direction to scroll :
 
 - **webkit-scroll properties** :
 
+**webkit** : 
+
+webkit is browser engine developed by Apple that supports number of special extensions in Css.
+
+
+
   by using the code below, we can adjust the scroll style
 
 ```
